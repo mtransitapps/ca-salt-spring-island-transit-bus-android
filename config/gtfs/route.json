@@ -4,7 +4,10 @@
     "route_id_cleanup_regex": "\\-[A-Z]+$",
     "default_route_long_name_enabled": true,
     "direction_finder_enabled": true,
-    "allow_non_descriptive_head_signs_until": {},
+    "allow_non_descriptive_head_signs_until": {
+        "6": "20271002"
+    },
+    "allow_non_descriptive_head_signs_6_comment": "direction ID provided but mixed",
     "trip_headsign_remove_via": true,
     "trip_headsign_cleaners": [],
     "stop_name_cleaners": []
